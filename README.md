@@ -4,8 +4,6 @@ This work is a overnight with 84436, an overlay code forked from Osu! community 
 
 ## Installation
 
-### Vietnamese
-
 Xài [Tampermonkey](https://www.tampermonkey.net/). Nếu bạn là hệ chơi Chrome thì cài [extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
 
 Người chơi hệ Opera, xài [extension này](https://addons.opera.com/en/extensions/details/tampermonkey-beta/).
@@ -16,16 +14,24 @@ Cài thêm đoạn này vào [script.js](https://github.com/t3bol90/flag-of-viet
 
 Chiến đấu tới giờ cuối nào!
 
+### Cài đặt Tampermonkey (Trên Chrome)
 
+#### B1: Cài đặt tampermonkey
+![image](https://user-images.githubusercontent.com/43676770/161439688-699a5ae9-082a-4187-8ec9-7e92a7d78e4c.png)
 
+#### B2: Sau khi cài, sẽ hiện biểu tượng mặt khỉ ở góc (nếu không có thì kiểm tra menu overflow). Click vào sẽ sổ ra menu bên dưới:
+![image](https://user-images.githubusercontent.com/43676770/161439713-5e0f5f45-74ee-407f-be5f-76ba54bafc73.png)
 
-### English
-(Forked from https://www.reddit.com/r/osuplace/comments/tt6fv5/welcome_to_rosuplace_the_official_rosugame/)
+#### B3: Chọn create a new script, cửa sổ soạn thảo mở ra như hình dưới:
+![image](https://user-images.githubusercontent.com/43676770/161439759-c1e10cf8-51f1-4981-b7f4-4e7921db9334.png)
 
-First install [Tampermonkey](https://www.tampermonkey.net/). If you are on Chrome click [here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
+#### B4: Sao chép toàn bộ mã nguồn ở [script.js](https://raw.githubusercontent.com/t3bol90/flag-of-vietnam-rplace2022/main/overlay.js) và dán vào:
+![image](https://user-images.githubusercontent.com/43676770/161439816-ecfb2275-06c9-49e9-b514-9f9bea89c99f.png)
 
-If you are on Opera, click [here](https://addons.opera.com/en/extensions/details/tampermonkey-beta/).
+#### B5: Ctrl S (Save). Sau đó mở r/place và chiến. Hiển thị sẽ có hai màu, màu ở viền là màu đang hiển thị trên r/place và màu ở tâm ô vuông là màu cần tô để hoàn thiện bức vẽ.
 
-If you are on FireFox you will need to use [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/).
+![image](https://user-images.githubusercontent.com/43676770/161439854-bf1cb705-0ab8-4d28-a521-16be7dfa677d.png)
 
-Then just click [script.js](https://github.com/t3bol90/flag-of-vietnam-rplace2022/blob/main/overlay.js) and click "Install" and you're good to go!
+Nếu hoàn tất, chúng ta sẽ có thành quả
+
+![image](https://user-images.githubusercontent.com/43676770/161439911-1a992a73-ce6c-4bfc-bd1e-719d3282230c.png)
