@@ -32,6 +32,8 @@ Chiến đấu tới giờ cuối nào!
 
 ![image](https://user-images.githubusercontent.com/43676770/161439854-bf1cb705-0ab8-4d28-a521-16be7dfa677d.png)
 
-Nếu hoàn tất, chúng ta sẽ có thành quả
+Nếu đồng lòng, ta sẽ có:
 
 ![image](https://user-images.githubusercontent.com/43676770/161439911-1a992a73-ce6c-4bfc-bd1e-719d3282230c.png)
+
+**Lưu ý là nó không tự vẽ đâu, nó chỉ chỉ đường cho chúng ta thôi :)**
