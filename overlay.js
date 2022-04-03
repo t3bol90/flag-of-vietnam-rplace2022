@@ -14,7 +14,7 @@ if (window.top !== window.self) {
         // Load the image
         const image = document.createElement("img");
         // image.src = "https://cdn.mirai.gg/tmp/dotted-place-template.png";
-        image.src = "https://cdn.discordapp.com/attachments/546689595409170432/960219012426530846/my.png";
+        image.src = "https://raw.githubusercontent.com/t3bol90/flag-of-vietnam-rplace2022/main/flag.png";
         image.onload = () => {
             image.style = `position: absolute; left: 0; top: 0; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;
         };
@@ -24,7 +24,7 @@ if (window.top !== window.self) {
         const canvas = camera.querySelector("mona-lisa-canvas");
         canvas.shadowRoot.querySelector('.container').appendChild(image);
         
-        // Add a 50% overlay
+        // Add a 50% white overlay
         //canvas.shadowRoot.querySelector('.container canvas').style.opacity = "0.50";
       
         // Add a style to put a hole in the pixel preview (to see the current or desired color)
