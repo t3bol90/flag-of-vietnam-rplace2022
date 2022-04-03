@@ -5,6 +5,7 @@
 // @description  try to take over the canvas!
 // @author       t3bol90, 84436
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
+// @match        https://hot-potato.reddit.com/embed*
 // @grant        none
 // ==/UserScript==
 
@@ -13,7 +14,7 @@ if (window.top !== window.self) {
     window.addEventListener('load', () => {
         // Load the image
         const image = document.createElement("img");
-        image.src = "https://cdn.discordapp.com/attachments/546689595409170432/960213369086951424/my.png";
+        image.src = "https://raw.githubusercontent.com/t3bol90/flag-of-vietnam-rplace2022/main/Noomy_VN_Flag.png";
         image.onload = () => {
             image.style = `position: absolute; left: 0; top: 0; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;
         };
