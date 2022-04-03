@@ -34,6 +34,11 @@ Chiến đấu tới giờ cuối nào!
 
 Nếu đồng lòng, ta sẽ có:
 
-![image](https://user-images.githubusercontent.com/43676770/161439911-1a992a73-ce6c-4bfc-bd1e-719d3282230c.png)
+![image](https://user-images.githubusercontent.com/43676770/161443078-38f6944c-cd9e-42eb-b3fe-e8cc15ac693a.png)
 
+> Sau đó bạn dangquangv đã thay đổi lại tọa độ của bản đồ, nhưng thời điểm này sourcecode này đã đi rất xa (lên Voz và các cộng đồng khác) nên mình và đồng đội không muốn gây conflict giữa mọi người. Cảm ơn bạn @r/dangquangv:3
+
+![image](https://user-images.githubusercontent.com/43676770/161443221-fb8b4af1-5234-4050-8532-4c73bf0c3079.png)
+
+Credit: https://www.reddit.com/r/placevietnam/comments/tvg263/as_the_position_and_size_of_our_flag_has_changed/
 **Lưu ý là nó không tự vẽ đâu, nó chỉ chỉ đường cho chúng ta thôi :)**
