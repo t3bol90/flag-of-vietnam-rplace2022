@@ -22,6 +22,8 @@ Chiến đấu tới giờ cuối nào!
 #### B2: Sau khi cài, sẽ hiện biểu tượng mặt khỉ ở góc (nếu không có thì kiểm tra menu overflow). Click vào sẽ sổ ra menu bên dưới:
 ![image](https://user-images.githubusercontent.com/43676770/161439713-5e0f5f45-74ee-407f-be5f-76ba54bafc73.png)
 
+Hoặc bạn có thể sử dụng Greasyfork được đề xuất bởi @trcminh: https://greasyfork.org/en/scripts/442665-r-place-overlay-for-vietnam
+
 #### B3: Chọn create a new script, cửa sổ soạn thảo mở ra như hình dưới:
 ![image](https://user-images.githubusercontent.com/43676770/161439759-c1e10cf8-51f1-4981-b7f4-4e7921db9334.png)
 
@@ -42,3 +44,4 @@ Nếu đồng lòng, ta sẽ có:
 
 Credit: https://www.reddit.com/r/placevietnam/comments/tvg263/as_the_position_and_size_of_our_flag_has_changed/
 **Lưu ý là nó không tự vẽ đâu, nó chỉ chỉ đường cho chúng ta thôi :)**
+
