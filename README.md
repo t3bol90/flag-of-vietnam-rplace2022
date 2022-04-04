@@ -34,14 +34,7 @@ Hoặc bạn có thể sử dụng Greasyfork được đề xuất bởi @trcmi
 
 ![image](https://user-images.githubusercontent.com/43676770/161439854-bf1cb705-0ab8-4d28-a521-16be7dfa677d.png)
 
-Nếu đồng lòng, ta sẽ có:
+![image](https://user-images.githubusercontent.com/43676770/161527760-4072bcf8-fa6e-4bc6-8daa-217adf9c6f41.png)
 
-![image](https://user-images.githubusercontent.com/43676770/161443078-38f6944c-cd9e-42eb-b3fe-e8cc15ac693a.png)
-
-> Sau đó bạn dangquangv đã thay đổi lại tọa độ của bản đồ, nhưng thời điểm này sourcecode này đã đi rất xa (lên Voz và các cộng đồng khác) nên mình và đồng đội không muốn gây conflict giữa mọi người. Cảm ơn bạn @r/dangquangv:3
-
-![image](https://user-images.githubusercontent.com/43676770/161443221-fb8b4af1-5234-4050-8532-4c73bf0c3079.png)
-
-Credit: https://www.reddit.com/r/placevietnam/comments/tvg263/as_the_position_and_size_of_our_flag_has_changed/
 **Lưu ý là nó không tự vẽ đâu, nó chỉ chỉ đường cho chúng ta thôi :)**
 
